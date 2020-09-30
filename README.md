@@ -15,4 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![introduce-pic](assets/images/introduce.png){:height="50%" width="50%"}
+<div>
+  <img src="assets/images/introduce.png" height="500" width="250" style="margin:20px;" />
+  <img src="assets/images/loginpage.png" height="500" width="250" style="margin:20px;" />
+</div>
